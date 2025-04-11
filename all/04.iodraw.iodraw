@@ -31,14 +31,6 @@
         <mxCell id="s2geXFsSh8b_GaWaXH_H-16" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px;&quot;&gt;S -&amp;gt; ·E&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;E -&amp;gt; ·T&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;E -&amp;gt; ·E + T&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;T -&amp;gt; ·F&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;T -&amp;gt; ·T * F&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;F -&amp;gt; ·( E )&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(17, 17, 17); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;F -&amp;gt; ·i&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="s2geXFsSh8b_GaWaXH_H-15">
           <mxGeometry y="24" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="s2geXFsSh8b_GaWaXH_H-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2geXFsSh8b_GaWaXH_H-17" target="s2geXFsSh8b_GaWaXH_H-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="442" y="202" />
-              <mxPoint x="442" y="295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s2geXFsSh8b_GaWaXH_H-17" value="I (2)" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="150" height="84" as="geometry" />
         </mxCell>
@@ -80,7 +72,12 @@
           <mxGeometry y="22" width="150" height="38" as="geometry" />
         </mxCell>
         <mxCell id="s2geXFsSh8b_GaWaXH_H-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2geXFsSh8b_GaWaXH_H-25" target="s2geXFsSh8b_GaWaXH_H-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="210" />
+              <mxPoint x="520" y="302" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s2geXFsSh8b_GaWaXH_H-25" value="I (5)" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="540" y="70" width="150" height="140" as="geometry" />
@@ -155,7 +152,7 @@
           <mxGeometry x="220.5" y="460.5" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="s2geXFsSh8b_GaWaXH_H-66" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;F&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="160" width="30" height="30" as="geometry" />
+          <mxGeometry x="495" y="190" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
