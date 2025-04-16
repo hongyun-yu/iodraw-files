@@ -10,6 +10,9 @@
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="30" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="eaX0mgJOgRS4pMyQnDc4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eaX0mgJOgRS4pMyQnDc4-3" target="eaX0mgJOgRS4pMyQnDc4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-3" value="文法" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="120" width="120" height="45" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-9" value="First、Follow集合" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="190" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX0mgJOgRS4pMyQnDc4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.444;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eaX0mgJOgRS4pMyQnDc4-3" target="eaX0mgJOgRS4pMyQnDc4-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
