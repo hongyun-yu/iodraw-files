@@ -37,11 +37,11 @@
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-14" value="文法符号集合" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="190" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="eaX0mgJOgRS4pMyQnDc4-18" value="状态转移表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eaX0mgJOgRS4pMyQnDc4-18" value="分析表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-19" value="状态转移表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="270" width="120" height="45" as="geometry" />
+          <mxGeometry x="180" y="270" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
