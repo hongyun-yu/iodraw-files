@@ -93,7 +93,7 @@
           <mxGeometry x="1210" y="345" width="120" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-55" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="630" width="100" height="50" as="geometry" />
+          <mxGeometry x="1185" y="620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eaX0mgJOgRS4pMyQnDc4-58" target="eaX0mgJOgRS4pMyQnDc4-59">
           <mxGeometry relative="1" as="geometry" />
@@ -180,7 +180,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eaX0mgJOgRS4pMyQnDc4-70" target="eaX0mgJOgRS4pMyQnDc4-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="631" />
+              <mxPoint x="660" y="366" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
