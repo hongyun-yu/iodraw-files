@@ -37,6 +37,9 @@
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-14" value="文法符号集合" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="190" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="eaX0mgJOgRS4pMyQnDc4-18" value="项目表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
