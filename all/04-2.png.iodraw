@@ -98,7 +98,7 @@
           <mxGeometry x="1000" y="326.25" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eaX0mgJOgRS4pMyQnDc4-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;取栈顶状态&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="270" width="120" height="42.5" as="geometry" />
+          <mxGeometry x="760" y="500" width="120" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
