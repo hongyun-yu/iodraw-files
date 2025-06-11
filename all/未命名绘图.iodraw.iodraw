@@ -22,8 +22,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="57QzfiokXKPs7EyB7ECe-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="188" width="50" height="30" as="geometry" />
+        <mxCell id="57QzfiokXKPs7EyB7ECe-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ZK电路&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Circom构建&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
