@@ -13,10 +13,10 @@
         <mxCell id="57QzfiokXKPs7EyB7ECe-8" value="输入需证明属性结构电路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="20" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="57QzfiokXKPs7EyB7ECe-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;" edge="1" parent="1" target="57QzfiokXKPs7EyB7ECe-2">
+        <mxCell id="57QzfiokXKPs7EyB7ECe-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#007FFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="57QzfiokXKPs7EyB7ECe-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="190" as="sourcePoint" />
-            <mxPoint x="420" y="250" as="targetPoint" />
+            <mxPoint x="270" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="190" y="140" />
             </Array>
