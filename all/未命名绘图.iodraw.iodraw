@@ -37,6 +37,9 @@
         <mxCell id="57QzfiokXKPs7EyB7ECe-13" value="提交zkProof" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="114" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="57QzfiokXKPs7EyB7ECe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.992;entryY=0.729;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="57QzfiokXKPs7EyB7ECe-11" target="57QzfiokXKPs7EyB7ECe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
