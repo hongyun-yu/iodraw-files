@@ -34,8 +34,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="57QzfiokXKPs7EyB7ECe-13" value="提交" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="108" width="50" height="30" as="geometry" />
+        <mxCell id="57QzfiokXKPs7EyB7ECe-13" value="提交zkProof" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="108" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
