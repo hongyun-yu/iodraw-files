@@ -10,7 +10,7 @@
         <mxCell id="57QzfiokXKPs7EyB7ECe-2" value="ZK电路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57QzfiokXKPs7EyB7ECe-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.074;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="57QzfiokXKPs7EyB7ECe-2" target="57QzfiokXKPs7EyB7ECe-1">
+        <mxCell id="57QzfiokXKPs7EyB7ECe-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.074;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="57QzfiokXKPs7EyB7ECe-2" target="57QzfiokXKPs7EyB7ECe-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
             <mxPoint x="270" y="140" as="targetPoint" />
